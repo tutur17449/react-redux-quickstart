@@ -1,6 +1,6 @@
 # React-redux quickstart
 
-React quickstart repo with Redux, react-redux, redux-toolkit, redux-thunk, axios, react-router-dom
+React quickstart repo with redux, react-redux, redux-toolkit, redux-thunk, axios, react-router-dom
 
 ## Project folders
 

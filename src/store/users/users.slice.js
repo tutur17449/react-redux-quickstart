@@ -3,7 +3,7 @@ import httpClient from "../../lib/axios";
 
 const initialState = {
   users: [],
-  isLoading: true,
+  isLoading: false,
   error: null,
 };
 
