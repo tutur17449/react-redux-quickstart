@@ -1,0 +1,15 @@
+.user-card {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid grey;
+    border-radius: 10px;
+    display: flex;
+    transition: all 300ms;
+}
+
+.user-card:hover {
+    background-color: rgb(226, 226, 226);
+}

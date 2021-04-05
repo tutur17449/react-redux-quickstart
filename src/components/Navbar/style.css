@@ -1,0 +1,13 @@
+nav {
+    background-color: #292C34;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    color: #fff;
+}
+
+nav ul li a {
+    color: #fff;
+}
