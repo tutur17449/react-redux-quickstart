@@ -1,6 +1,6 @@
-# React quickstart
+# React-redux quickstart
 
-React quickstart repo with axios, react-router-dom & react-query
+React quickstart repo with Redux, react-redux, redux-toolkit, redux-thunk, axios, react-router-dom
 
 ## Project folders
 
@@ -12,7 +12,7 @@ React quickstart repo with axios, react-router-dom & react-query
 - `/src/lib`
 - `/src/pages`
 - `/src/providers`
-- `/src/services`
+- `/src/store`
 
 ## Available Scripts
 
