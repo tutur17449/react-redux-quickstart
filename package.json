@@ -2,6 +2,12 @@
   "name": "cra-template-redux-ahl",
   "version": "1.0.0",
   "private": false,
+  "license": "MIT",
+  "description": "Personnal react/redux app template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutur17449/react-redux-quickstart"
+  },
   "main": "template.json",
   "files": [
     "template",
