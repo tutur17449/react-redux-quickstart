@@ -1,7 +1,24 @@
 {
-  "name": "react-redux-quickstart",
+  "name": "cra-template-redux-ahl",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "keywords": [
+    "cra",
+    "react",
+    "create-react-app",
+    "cra-template",
+    "redux",
+    "axios",
+    "react-redux",
+    "redux-thunk",
+    "redux-toolkit",
+    "react-router-dom"
+  ],
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
     "@testing-library/jest-dom": "^5.11.10",
@@ -21,7 +38,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "cleen-files": "rm -rf ./template/public ./template/src",
+    "copy-files": "cp -a ./src/. template/src && cp -a ./public/. template/public"
   },
   "eslintConfig": {
     "extends": [

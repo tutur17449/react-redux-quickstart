@@ -6,7 +6,7 @@ import {
   getIsLoading,
   getError,
 } from "../../store/users/users.selectors";
-import UserList from "../../components/UserList/UserList";
+import UserList from "../../components/UserList";
 
 const Home = () => {
   const dispatch = useDispatch();

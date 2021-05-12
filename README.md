@@ -1,6 +1,14 @@
 # React-redux quickstart
 
+Personnal react/redux app template
+
 React quickstart repo with redux, react-redux, redux-toolkit, redux-thunk, axios, react-router-dom
+
+## Installation
+
+```bash
+npx create-react-app your-project-name --template redux-ahl
+```
 
 ## Project folders
 
